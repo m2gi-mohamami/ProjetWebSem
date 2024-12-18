@@ -2,12 +2,12 @@
 
 ### 1. **Données utilisées**
 Les données proviennent de la plateforme Open Food Facts, qui offre :
-- Des fichiers au format CSV.
+- Des fichiers au format CSV ( https://world.openfoodfacts.org/data ).
 - Un fichier RDF contenant des données sémantiques.
 
 Nous avons travaillé principalement avec :
 - Le fichier CSV contenant les données des produits alimentaires.
-- Le fichier `data-fields.txt` pour identifier les concepts et leurs propriétés.
+- Le fichier `data-fields.txt` pour identifier les concepts et leurs propriétés ( https://static.openfoodfacts.org/data/data-fields.txt).
   
 ### 2. **Préparation des données**
 - **Partitionnement :** Le fichier CSV volumineux a été scindé en fichiers de 10 000 lignes pour une meilleure manipulation.
