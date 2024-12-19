@@ -25,16 +25,16 @@ Nous avons travaillé principalement avec :
   - Produit alimentaire, catégorie, marque, ingrédient, valeur nutritionnelle, allergène, etc.
 - Création des relations entre concepts :
   - Exemple :les relations possibles dans notre contexte :
-      "Produit" a pour marque ’hasBrand’ → "marque"
-      "Produit" a pour categorie ‘hasCategory’ → "Categorie"
-      "Produit" contient → "Ingrédient"
-      "Produit Alimentaire" a pour valeur nutritionnelle ‘hasNutrient’→ "Valeur Nutritionnelle"
-      "Produit" est valable dans “availableInCountry” → "pays"
-      "Produit" a pour createur “hasCreator”→ "Createur"
-      "Produit" contient ‘containsAllergen’→ "Allergène"
-      "Produit" est disponible dans → "PurchasePlace"
-      "Produit Alimentaire" est fabriqué en → "ManufacturingPlace"
-      etc …
+  - "Produit" a pour marque ’hasBrand’ → "marque"
+  - "Produit" a pour categorie ‘hasCategory’ → "Categorie"
+  - "Produit" contient → "Ingrédient"
+  - "Produit Alimentaire" a pour valeur nutritionnelle ‘hasNutrient’→ "Valeur Nutritionnelle"
+  - "Produit" est valable dans “availableInCountry” → "pays"
+  - "Produit" a pour createur “hasCreator”→ "Createur"
+  - "Produit" contient ‘containsAllergen’→ "Allergène"
+  - "Produit" est disponible dans → "PurchasePlace"
+  - "Produit Alimentaire" est fabriqué en → "ManufacturingPlace"
+  - etc …
 
 - Utilisation de vocabulaires comme FOAF et Schema.org pour garantir l'interopérabilité.
 
@@ -77,9 +77,9 @@ Nous avons travaillé principalement avec :
 - L'enrichissement avec DBpedia et Wikidata nécessite une connexion internet.
 
 ## Membres de l'équipe
+- **Gaelle Manuela Yonga Yonga** *(gaelle.yonga-yonga@etu.univ-grenoble-alpes.fr)*
 - **Salimata Cissouma** *(salimata.cissouma@etu.univ-grenoble-alpes.fr)*
 - **Mohammedi Amira** *(amira.mohammedi@etu.univ-grenoble-alpes.fr)*
-- **Gaelle Manuela Yonga Yonga** *(gaelle.yonga-yonga@etu-univ)*
 
 ## Superviseur
 - **Danielle**
